@@ -1,0 +1,7 @@
+"Code","Country","State","Zip/Post Code","Rate","Zip/Post is Range","Range From","Range To","default"
+"China (standard)","CN","*","","13.0000","","","",""
+"China (reduced 3%)","CN","*","","3.0000","","","",""
+"China (reduced 5%)","CN","*","","5.0000","","","",""
+"China (reduced 6%)","CN","*","","6.0000","","","",""
+"China (reduced 9%)","CN","*","","9.0000","","","",""
+"China (zero)","CN","*","","0.0000","","","",""

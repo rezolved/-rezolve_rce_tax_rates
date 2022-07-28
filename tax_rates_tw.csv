@@ -1,0 +1,3 @@
+"Code","Country","State","Zip/Post Code","Rate","Zip/Post is Range","Range From","Range To","default"
+"Taiwan (standard)","TW","*","","5.0000","","","",""
+"Taiwan (zero)","TW","*","","0.0000","","","",""
