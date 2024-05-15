@@ -1,4 +1,4 @@
 "Code","Country","State","Zip/Post Code","Rate","Zip/Post is Range","Range From","Range To","default"
-"UK (standard)","GB","*","","20.0000","","","",""
-"UK (reduced)","GB","*","","5.0000","","","",""
-"UK (zero)","GB","*","","0.0000","","","",""
+"UK (standard)","GB","*","*","20.0000","","","",""
+"UK (reduced)","GB","*","*","5.0000","","","",""
+"UK (zero)","GB","*","*","0.0000","","","",""
